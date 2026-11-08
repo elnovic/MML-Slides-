@@ -1,18 +1,18 @@
-# Machine Learning Coursework
+# Machine Learning Slides & Coursework
 
-This repository stores coursework materials related to machine learning.
+A collection of learning materials and assignment archives related to machine learning.
 
-## Current contents
+## Contents
 
-- `C2W2_Assignment.zip` — archived assignment material.
+- `C2W2_Assignment.zip` — archived course assignment materials.
 
-## Repository purpose
+## Organization
 
-A simple, organized place to keep machine-learning course assignments and related learning materials.
-
-## Organization guidelines
-
-- Keep original assignment archives intact.
-- Add a short description when new coursework is added.
-- Use clear filenames that identify the course, week, or assignment.
+- Preserve original course files and archives.
+- Use descriptive filenames that identify the course, module, or assignment.
+- Add a short note here when new material is added.
 - Do not commit credentials, private datasets, or unrelated generated files.
+
+## Scope
+
+This repository is intended for machine-learning study materials and coursework. Its existing repository name is retained.
